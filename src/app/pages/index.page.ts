@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
       </a>
     </div>
 
-    <h2>Analog</h2>
+    <h2>AnalogJs with angular16 standalone</h2>
 
     <h3>The fullstack meta-framework for Angular!</h3>
 
